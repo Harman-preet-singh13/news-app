@@ -24,3 +24,4 @@ Here some screenshots:
 ![Screenshot_3](https://github.com/Harman-preet-singh13/news-app/assets/63332289/30270739-d6f1-4497-99ae-62516dfd8077)
 ![Screenshot_2](https://github.com/Harman-preet-singh13/news-app/assets/63332289/89684dcc-4b68-4d59-8024-52f5eb68d010)
 ![Screenshot](https://github.com/Harman-preet-singh13/news-app/assets/63332289/5b323d11-1ab8-4cf8-b80b-c5eedcc88d4b)
+![Screenshot_4](https://github.com/Harman-preet-singh13/news-app/assets/63332289/5442966b-f75b-4f90-a20b-9c9596cf46bf)
