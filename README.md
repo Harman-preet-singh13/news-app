@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A responsive news application that provides up-to-date news articles and images from various sources. Stay informed about current events, trending topics, and breaking news with this easy-to-use app.
 
-## Getting Started
+"I regret to inform you that the website cannot be made live at this time, as it requires the purchase of a hosting plan to ensure its availability on the internet.😢"
 
-First, run the development server:
+Features
+Search News: Search for news articles on any topic of interest.
+Responsive Design: Enjoy a seamless user experience on both desktop and mobile devices.
+Image Galleries: View images associated with news articles for a visual representation of the news.
+Source Diversity: Access news from a wide range of sources to get a balanced perspective.
+Easy to Use: User-friendly interface for a hassle-free news browsing experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Technologies Used
+Frontend: React, Next js
+Styling: CSS, Tailwind
+API Integration: Axios
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Api by- [NewsApi](https://newsapi.org/).
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Here some screenshots:
+![Screenshot_1](https://github.com/Harman-preet-singh13/news-app/assets/63332289/6d458274-d58f-4152-a823-1a46945e5e64)
+![Screenshot_3](https://github.com/Harman-preet-singh13/news-app/assets/63332289/30270739-d6f1-4497-99ae-62516dfd8077)
+![Screenshot_2](https://github.com/Harman-preet-singh13/news-app/assets/63332289/89684dcc-4b68-4d59-8024-52f5eb68d010)
+![Screenshot](https://github.com/Harman-preet-singh13/news-app/assets/63332289/5b323d11-1ab8-4cf8-b80b-c5eedcc88d4b)
+![Screenshot_4](https://github.com/Harman-preet-singh13/news-app/assets/63332289/5442966b-f75b-4f90-a20b-9c9596cf46bf)
