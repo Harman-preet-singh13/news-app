@@ -15,6 +15,14 @@ Frontend: React, Next js
 Styling: CSS, Tailwind
 API Integration: Axios
 
+![Flowchart](https://github.com/Harman-preet-singh13/news-app/assets/63332289/5559fee1-37f0-4846-aa9e-ac124b884974)
+
+Explnation of project: To make it easier to understand, I created a flowchart starting with the layout. In the layout, I added components such as AuthProvider for authentication using Firebase, a navbar, and a footer that can be accessed by every child of the layout. Now, let's move to the home page of the website. I divided the home page into three components: the primary section, secondary section, and sidebar for easier data handling. I fetch news using the NewsAPI and utilize the Axios module for the fetching process.
+
+When you click on a news item on the home page, it opens in a pop-up. To create this, I used the React Modal. Moving on to the search page, you can search and add bookmarks. I use state to retrieve data by the user, and with the useEffect hook, I rerender data based on the user's search. When the user clicks on the bookmark, the title, description, and URL of the news are saved in the Firebase database, which I then use in the bookmark page to fetch data again. In the bookmark section, you can also delete news.
+
+For authentication, I used Google Firebase authentication.
+
 
 Api by- [NewsApi](https://newsapi.org/).
 
