@@ -14,6 +14,7 @@ export interface NewsItem {
   description: string;
   urlToImage: string;
   author: string;
+  content:string;
 }
 
 export default function page() {
@@ -39,6 +40,8 @@ export default function page() {
   }, []);
 
   const firstNews = news.slice(0, 1);
+
+  console.log(firstNews);
 
   const sidebarNews = news.slice(1, 4);
 
